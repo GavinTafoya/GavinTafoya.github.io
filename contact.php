@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-    $pagetitle = "Contact - Gavin Tafoya";
+    $pagetitle = "Contact";
     include ".head";
 ?>
 <body>
