@@ -12,21 +12,22 @@ header {
 /* Navigation */
 nav {
    background-color: #444;
-   padding: 2%;
-   width: 96%;
+   padding: 0%;
+   width: 100%;
    display: flex;
    justify-content: space-between;
 }
 nav ul {
    list-style-type: none;
-   margin: 0;
-   padding: 0;
-   display: inline;
-   border: 1px solid #ccc;
+   min-width: contain;
+   padding: 2%;
+   margin: 1% 2%;
+   display: flex;
+   justify-content: space-around;
 }
 nav ul li {
    display: inline;
-   margin: 5%;
+   margin: 0% 4%;
 }
 nav ul li a {
    color: white;
