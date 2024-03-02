@@ -2,11 +2,11 @@
 <html lang="en">
 <?php
     $pagetitle = "Home";
-    include ".head";
+    include "head";
 ?>
 <body>
     <?php
-        include ".header";
+        include "header";
     ?>
     <main>
         <section class="title">
@@ -16,6 +16,6 @@
     </main>
 </body>
 <?php
-    include ".footer";
+    include "footer";
 ?>
 </html>
