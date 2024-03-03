@@ -9,7 +9,7 @@
           <section class="title">
               <h2>About Me</h2>
           </section>
-          <section class="artifact">
+          <section class="content">
             <p>and my journey</p>
           </section>
         </main>
