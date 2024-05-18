@@ -1,3 +1,5 @@
-theme: https://github.com/abhinavs/moonwalk
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Gavin Tafoya
 description: Bozo
