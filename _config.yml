@@ -1,5 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+
 remote_theme: pages-themes/hacker@v0.2.0
 plugins: 
 - jekyll-remote-theme
-github:
-  is_project_page: false
