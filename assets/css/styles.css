@@ -1,5 +1,6 @@
 a:hover{
-    animation: linkHover 1s .25s forwards;
+    animation: linkHover 1s .25s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes linkHover{
