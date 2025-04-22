@@ -1,5 +1,5 @@
 .card-body{
     display: flex;
-    align-items: space-around;
+    align-content: space-around;
     flex-direction: column;
 }
