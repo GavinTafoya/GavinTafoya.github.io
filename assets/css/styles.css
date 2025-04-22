@@ -6,12 +6,8 @@ a:hover{
 @keyframes linkHover{
     0%{
         letter-spacing: normal;
-        background-color: #fff;
-        color: #396ffe;
     }
     100%{
-        letter-spacing: calc(normal + 0.5em);
-        background-color: #396ffe;
-        color: #fff;
+        letter-spacing: 1.5em;
     }
 }
