@@ -8,6 +8,6 @@ a:hover{
         letter-spacing: normal;
     }
     100%{
-        letter-spacing: 1em;
+        letter-spacing: .15rem;
     }
 }
