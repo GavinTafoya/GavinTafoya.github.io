@@ -1,4 +1,16 @@
-.card-body{
-    display: flex;
-    align-items: space-around;
+a:hover{
+    animation: linkHover 1s .25s forwards;
+}
+
+@keyframes linkHover{
+    0%{
+        letter-spacing: normal;
+        background-color: #fff;
+        color: #396ffe;
+    }
+    100%{
+        letter-spacing: calc(normal + 0.5em);
+        background-color: #396ffe;
+        color: #fff;
+    }
 }
