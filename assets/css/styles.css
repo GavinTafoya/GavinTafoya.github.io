@@ -1,4 +1,8 @@
-a:hover{
+.card-footer{
+    text-align: center;
+}
+
+.card-footer a:hover{
     animation: linkHover 1s .25s;
     animation-fill-mode: forwards;
 }
