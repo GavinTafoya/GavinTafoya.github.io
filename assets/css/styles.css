@@ -15,3 +15,7 @@
         letter-spacing: .15rem;
     }
 }
+
+.equal-height {
+    min-height: 50vh; /* Adjust this value as needed */
+}
